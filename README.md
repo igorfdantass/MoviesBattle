@@ -1,7 +1,7 @@
 #Movies Battle
 
 ##Users
-O jogo já possui dois usuários cadastrados: "igor" e "maria", com a senha: 123123 
+O jogo já possui dois usuários cadastrados: "igor" e "maria", com a senha: 123456 
 
 Caso deseje criar um novo user, enviar uma request 'POST - localhost:8081/user' com: name, username e password
 

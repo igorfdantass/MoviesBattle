@@ -19,5 +19,4 @@ public class UserController {
         var user = userService.create(dto);
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
-
 }
